@@ -12,6 +12,7 @@ public class LoginData {
 		this.userName = userName;
 	}
 	public String getEmail() {
+		System.out.println("getting email configuration");
 		return email;
 	}
 	public void setEmail(String email) {
