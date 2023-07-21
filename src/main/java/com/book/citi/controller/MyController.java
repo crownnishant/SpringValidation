@@ -8,7 +8,7 @@ public class MyController {
 		
 	@GetMapping("/form")
 	public String openForm() {
-		
+		System.out.println("welcome to form page");
 		return "form";
 	}
 }
