@@ -9,7 +9,7 @@ public class SpringvalidationApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringvalidationApplication.class, args);
 		System.out.println("welcome to spring validation learning");
-		System.out.println("welcome to spring validation learning");
+		
 	}
 
 }
